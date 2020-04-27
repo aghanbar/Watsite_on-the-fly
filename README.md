@@ -1,4 +1,4 @@
-# Watsite_on-the-fly
+# WATsite_on-the-fly
 
 This repo contains the demo code for our manuscript [On-the-fly Prediction of Protein Hydration Densities and Free Energies using Deep Learning](https://arxiv.org/abs/2001.02201) authored by Ahmadreza Ghanbarpour, Amr H. Mahmoud and Markus A. Lill. This demo contains the code for the grid-to-grid mapping approach, the first approach using U-Nets for water occupancy grid prediction.
 
